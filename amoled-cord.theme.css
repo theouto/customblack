@@ -12,7 +12,7 @@
 
 :root {
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
-  --lightness-600-660: 100%;
+  --lightness-600-660: 15%;
   --lightness-700-760: 15%;
   --lightness-800-860: 10%;
   --lightness-900: 7%;
